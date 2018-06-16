@@ -25,3 +25,4 @@ seminar/
 
 # 練習用
 スタッシュさせたい変更内容
+detached HEAD の扱い方用
